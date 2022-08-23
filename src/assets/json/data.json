@@ -1,0 +1,182 @@
+{
+    "logos": {
+        "mainLogo": "http://www.emmkayindustries.com/images/logo.png"
+    },
+    "crouselImages": [
+        { "banerUrl": "https://spotlesscarpet.com.au/wp-content/uploads/2021/02/serviceimg2.jpg" },
+        { "banerUrl": "https://spotlesscarpet.com.au/wp-content/uploads/2021/02/serviceimg1.jpg" },
+        { "banerUrl": "https://spotlesscarpet.com.au/wp-content/uploads/2021/02/serviceimg3.jpg" },
+        { "banerUrl": "https://spotlesscarpet.com.au/wp-content/uploads/2021/02/serviceimg5.jpg" },
+        { "banerUrl": "https://spotlesscarpet.com.au/wp-content/uploads/2021/02/firedamageclean.jpg" },
+        { "banerUrl": "https://spotlesscarpet.com.au/wp-content/uploads/2021/02/serviceimg6.jpg" }
+    ],
+    "socialMediaLinks": {
+        "facebook": "https://www.facebook.com/Emmkay-Industries-1511721602228931",
+        "twitter": "https://twitter.com/emmkayofficial",
+        "linkedin": "https://linkedin.com/",
+        "instagram": "https://instagram.com/"
+    },
+    "googleMap": {
+        "googleMapUrl": ""
+    },
+    "sendEmail": {
+        "sendEmailApiUrl": "",
+        "to": "kadamdnyanesh007@gmail.com",
+        "from": "kadamdnyanesh007@gmail.com",
+        "subject": "Enquiry for purchase products"
+    },
+    "aboutUsContent": {
+        "heading": "About Us",
+        "authority": "Mr. Abcd Efgh",
+        "designation": "Director",
+        "company": "SAT | Cleaning and Restoration",
+        "description": "SAT restoration House experienced staff and been in the industry for over 10 years. SAT restoration born in 2021 but we have spent last 10 years in the industry to master all the skills we need to provide the best service."
+    },
+    "contactUsCard": {
+        "head": "Contact Us",
+        "body": "For More Information please call:",
+        "mobile1": "0 484 225333",
+        "email1": "admin@satrestoration.com.au",
+        "email2": "mandeep@satrestoration.com",
+        "address": "32-A, Building, Street, Australiya",
+        "keyWords": ["#SAT", "#Cleaning", "#Restoration"]
+    },
+    "homePage": {
+        "mainHeading": "Professional Cleaning and Restoration Services",
+        "subHeading": "Our brand promises the Flexibility to meet your needs for Cleaning and Restoration. We have in house staff and equipment to carry out restoration and cleaning for your needs.",
+        "tagLine": "Restoring is our passion and Expertise is our Pride",
+        "specialist": [
+            "Water Damage mitigation works",
+            "Storm & Catastrophe Damage",
+            "Sewerage overflow decontamination and mitigation works",
+            "Fire damage cleaning and decontamination works",
+            "Mold cleaning and decontamination",
+            "Carpet Cleaning ",
+            "Tile cleaning",
+            "Upholstery cleaning (Fabric & Leather)",
+            "General Cleaning and End of lease cleaning"
+        ],
+        "specialistKeywords": [
+            "Fire",
+            "Storm",
+            "Mold",
+            "Tile",
+            "Water",
+            "Catastrophe",
+            "Cleaning",
+            "Carpet"
+        ],
+        "services": [
+            {
+                "sr": 1,
+                "name": "Mold and Biohazard",
+                "price": "Price from $40",
+                "image": "https://spotlesscarpet.com.au/wp-content/uploads/2021/02/serviceimg5.jpg",
+                "description": "Mold and Biohazard damage require professional remediation services to insure safe work methods are used during remediation works. Such as containing the affected area or area to be treated with appropriate air controls and negative air pressure to avoid cross contamination to adjacent areas. Often Mold occurs when water damage has been left unresolved over a period for Example: Long-term leaking pipe within wall cavity, Leaking showers etc. Mold is living organism and can transfer to other areas when disturbed. Our team is well equipped with knowledge and experience to carry out remediation works with containment measures in place and expertise of our IICRC trained professionals."
+            },
+            {
+                "sr": 2,
+                "name": "Water damage",
+                "price": "Price from $40",
+                "image": "https://spotlesscarpet.com.au/wp-content/uploads/2021/02/serviceimg6.jpg",
+                "description": "Water damages can cause unwanted stress when you come home from work and found water everywhere and your safest place you call home is under water. Where you cannot reverse what had happen but can take some prompt actions to mitigate further damage. Water damage mitigation works requires a swift mitigation process with specialized equipment and highly trained professionals to ensure your property is safe, clean, and dried and habitable. SAT restoration uses the latest technology and methodology to extract water and implementation of drying to prevent any further damage. Leaving water damage for prolonged time can cause further damages such as mold growth and deterioration of floor coverings and structural elements."
+            },
+            {
+                "sr": 3,
+                "name": "Storm & Catastrophe",
+                "price": "Price from $40",
+                "image": "https://spotlesscarpet.com.au/wp-content/uploads/2021/02/serviceimg3.jpg",
+                "description": "Due to weather events unpredictable damages can occur during storm event such as roof gutters overflow into ceiling, Back floe from floor drains, flash flooding etc.; Flood water considered contaminated due to foreign objects being washed with water such as waste from gardens, pesticides and pathogens. It is important that these damages are mitigated by professionals. Due to excessive amount of water damage to the properties requires immediate extraction of water and removal of floor coverings. Our highly trained team will carry out necessary mitigation works SAT restoration use latest technology to achieve optimum results."
+            },
+            {
+                "sr": 4,
+                "name": "Fire and Smoke Damage",
+                "price": "Price from $40",
+                "image": "https://spotlesscarpet.com.au/wp-content/uploads/2021/02/firedamageclean.jpg",
+                "description": "Fire and Smoke can be extremely dangerous and can cause extensive damage if left unattended. SAT restoration IICRC certified team can perform immediate mitigation and make-safe works to prevent further damage to property and contents. Sat restoration uses latest technology and methodology to clean and decontaminate fire and/or Soot damage items such as floors, walls, and ceiling. All structural elements require to be cleaned and remove loose contaminant ASAP. SAT Restoration can be at your service 24/7."
+            }
+        ],
+        "body": "'SAT' restoration House experienced staff and been in the industry for over 10 years. SAT restoration born in 2021 but we have spent last 10 years in the industry to master all the skills we need to provide the best service."
+    },
+    "faq": {
+        "faqs": [
+            {
+                "id": 1,
+                "question": "What to do when you have water damage to your property ?",
+                "answer": "Very first step you must do is rectify the leak such as if flexi hose is burst turn off the water from main and take action to extract excess water immediately. As soon you have extracted the excess water think of introducing the drying of affected flooring or structure. This part is very critical and should happen immediately after the event. The longer water remains the more damage its causing. Its best to call professional in time like that to extract water and install drying equipment to minimize further damage."
+            },
+            {
+                "id": 2,
+                "question": "Can water damage lead to other problems if not addressed in timely manner ?",
+                "answer": "Yes, Water damage can lead to further damage if not addressed in timely manner. Water Extraction and removal of excessive water should occur right after the event. If water left in for longer time frame can lead to damage to adjacent areas. If water damaged material not dried in timely manner it can lead to mold growth and deterioration of floor coverings such as carpet & underlay, floating floor boards and other hard wood flooring. Mold can start to grow on cellulosic material with in 24 hours of the event."
+            },
+            {
+                "id": 3,
+                "question": "What to do when sewerage overflow from my floor drains ?",
+                "answer": "Sewerage water can carry a lot of bacteria and contaminate affected areas. Hence in such event extraction of contaminated water and all areas required to be sanitized ASAP. Also, any floor coverings to be removed and disposed. Tiled and concrete areas can be cleaned and decontaminated however any porous material such as magnesite floors, timber sub floors required drying and decontamination if possible, to do so.. SAT restoration can guide you through every step of the way."
+            },
+            {
+                "id": 4,
+                "question": "How can I clean mold ?",
+                "answer": "Mold can occur due to many aspects such as high humidity within the household or mold can also grow into wet material after any water event. As first step it is very important to rectify the leak or cause of the mold growth. Below are few examples where mold can grow; Under the carpets due to prolonged wetness, With in the wall cavities following water damage, Surface mold can occur on ceilings, walls and windows due to high humidity. All affected surfaces should be HEPA vacuumed prior to apply any treatments and wipe down the areas with anti-microbial solution. It is recommended that moisture mapping of the areas to be competed to identify the affected area and cause of the mold. SAT restoration can arrange inspection and prepare scope for mold remediation works."
+            }
+        ]
+    },
+    "ourServices": {
+        "ourServicesHead": "We provide range of services as listed below",
+        "services": [
+            {
+                "sr": 1,
+                "name": "Mould Remediation /Cleaning",
+                "price": "Price from $40",
+                "keywords": ["Mould", "Cleaning"],
+                "image": "https://spotlesscarpet.com.au/wp-content/uploads/2021/02/serviceimg5.jpg",
+                "description": "Mold and Biohazard damage require professional remediation services to insure safe work methods are used during remediation works. Such as containing the affected area or area to be treated with appropriate air controls and negative air pressure to avoid cross contamination to adjacent areas. Often Mold occurs when water damage has been left unresolved over a period for Example: Long-term leaking pipe within wall cavity, Leaking showers etc. Mold is living organism and can transfer to other areas when disturbed. Our team is well equipped with knowledge and experience to carry out remediation works with containment measures in place and expertise of our IICRC trained professionals."
+            },
+            {
+                "sr": 2,
+                "name": "Tile cleaning",
+                "price": "Price from $40",
+                "keywords": ["Tile", "Cleaning"],
+                "image": "https://spotlesscarpet.com.au/wp-content/uploads/2021/02/serviceimg2.jpg",
+                "description": "We offer steam cleaning /Deep cleaning of carpet and tiles. Carpets requires cleaning every six months to keep them dust free and deodorized. Tile grout can built up residue over time may required cleaning to freshen up the look and bring out texture of the tiles."
+            },
+            {
+                "sr": 3,
+                "name": "Carpet and rug cleaning",
+                "price": "Price from $40",
+                "keywords": ["Carpet", "Rug", "Cleaning"],
+                "image": "https://spotlesscarpet.com.au/wp-content/uploads/2021/02/serviceimg1.jpg",
+                "description": "Our services include cleaning upholstery and rugs of all type. Fabric Upholstery can be cleaned using steam clean /Deep cleaning method to remove any staining or build up on the surfaces. We offer both wet and dry cleaning of rugs to achieve best results we would bring your rugs off site and process them off site. All rugs cannot be wet cleaned so our professional team will inspect the material prior to carrying out the cleaning."
+            },
+            {
+                "sr": 4,
+                "name": "Water damage and sewerage overflow",
+                "price": "Price from $40",
+                "keywords": ["Water", "Sewerage", "Oveflow"],
+                "image": "https://spotlesscarpet.com.au/wp-content/uploads/2021/02/serviceimg6.jpg",
+                "description": "SAT restoration have over 10 years experience in water damage mitigation woks. Our values are to provide peace of mind in disastrous situation we provide IICRC trained technicians to carry put woks to make safe and minimise loos by taking righ steps to mitigate further damage such as extraction of excess water, installing drying and dehumidification equipment to commence drying building and contents , place furniture items on non-porous blocks to minimise water absorption to contents Moisture Mapping the Area to determine extent of damage and provide scope to further actions that may require to mitigate the mould growth etc; Our reports ad documentation along with photos of the affected areas pre mitigation and post mitigation works to provide to insurer for claim process. Our brand promises rapid response to emergency needs call us in your needy time and we will live up to expectations"
+            },
+            {
+                "sr": 5,
+                "name": "Upholstery Cleaning",
+                "price": "Price from $40",
+                "keywords": ["Upholstery", "Cleaning"],
+                "image": "https://spotlesscarpet.com.au/wp-content/uploads/2021/02/serviceimg3.jpg",
+                "description": "Cleaning of all fabric and leather lounges and upholstered items. Cushions and Chairs. All dining (fabric and leather chairs). School auditoriums and cinema seating."
+            },
+            {
+                "sr": 6,
+                "name": "Fire damage restoration and cleaning to building and Contents",
+                "price": "Price from $40",
+                "keywords": ["Fire", "Cleaning"],
+                "image": "https://spotlesscarpet.com.au/wp-content/uploads/2021/02/firedamageclean.jpg",
+                "description": "Fire and Smoke can be extremely dangerous and can cause extensive damage if left unattended. SAT restoration IICRC certified team can perform immediate mitigation and make-safe works to prevent further damage to property and contents. Sat restoration uses latest technology and methodology to clean and decontaminate fire and/or Soot damage items such as floors, walls, and ceiling. All structural elements require to be cleaned and remove loose contaminant ASAP. SAT Restoration can be at your service 24/7."
+            }
+        ]
+    },
+    "footer": {
+        "head": "SAT Restoration & Cleaning ",
+        "body": "'SAT' restoration House experienced staff and been in the industry for over 10 years. SAT restoration born in 2021 but we have spent last 10 years in the industry to master all the skills we need to provide the best service."
+    }
+}
